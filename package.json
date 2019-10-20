@@ -1,6 +1,6 @@
 {
   "name": "trunghv-react-native-scale-text",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "react-native",
     "scale-text"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gnurt250394/trunghv-react-native-scale-text.git"
+  },
   "author": "Trunghv",
   "license": "ISC",
   "dependencies": {
