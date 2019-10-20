@@ -1,0 +1,24 @@
+{
+  "name": "trunghv-react-native-scale-text",
+  "version": "0.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Text",
+    "react",
+    "react-native",
+    "scale-text"
+  ],
+  "author": "Trunghv",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.9.9",
+    "@types/react-native": "^0.60.21",
+    "prop-types": "^15.7.2",
+    "react": "^16.10.2",
+    "react-native": "^0.61.2"
+  }
+}
